@@ -1,4 +1,4 @@
-# https-github.com-yourrepo-privacy-policy.md
+# https-github.com-privacy-policy.md
 
 Privacy Policy for Emile Simulation Runner API
 Last Updated: [March 18, 2025]
